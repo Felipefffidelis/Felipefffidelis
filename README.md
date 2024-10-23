@@ -1,4 +1,4 @@
-### Olá! Eu sou o Felipe Fidelis 👨🏻‍💻
+### Olá! Bem-Vindo ao meu GitHub 👨🏻‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefffidelis/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipefffidelis/)
@@ -12,11 +12,9 @@
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div><br>
 
-A programação está além de uma profissão pra mim, ela é a fonte de uma paixão que me move diariamente à alimentar minha insaciável cede de conhecimento, construindo minha
+A programação está além de uma profissão pra mim, ela é a fonte de uma paixão que me move diariamente pela cede de conhecimento, construindo assim a minha
 identidade profissional.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipefffidelis&layout=donut)](https://github.com/Felipefffidelis/github-readme-stats)
