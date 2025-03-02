@@ -7,10 +7,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefffidelis/)
 <div>
   <a href="https://github.com/Felipefffidelis/Felipefffidelis">
-    <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=Felipefffidelis&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Felipefffidelis&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Felipefffidelis/Felipefffidelis">
-    <img height="170cm" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Felipefffidelis&layout=compact&theme=aura_dark"/>
+    <img height="180cm" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Felipefffidelis&layout=compact&theme=aura_dark"/>
   </a>
 </div>
 <p align="left"><br>
