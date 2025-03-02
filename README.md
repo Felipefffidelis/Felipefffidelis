@@ -1,7 +1,7 @@
 ### Olá! Bem-Vindo ao meu GitHub 👨🏻‍💻
 
-##### - 🌱 Atualmente estudando Python e Django
-##### - 📫 Contatos: 
+#### - 🌱 Atualmente estudando Python e Django
+#### - 📫 Contatos: 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fidelisviana1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefffidelis/)
